@@ -11,7 +11,7 @@ khushpindersidhu/khushpindersidhu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-♪About Me:
+About Me:
 
 Knowledgeable and thorough Electronics Engineering Technician with superior attention to detail. I am here because of my love for programming.
 
